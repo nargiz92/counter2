@@ -1,0 +1,12 @@
+.button{
+    color: black;
+    border-color: burlywood;
+    border-radius: 30px;
+    height: 50px;
+    width: 150px;
+    background-color: antiquewhite;
+    text-shadow: darkblue;
+}
+.button:disabled{
+    background-color: burlywood;;
+}
